@@ -1,0 +1,14 @@
+<html>
+
+  <script
+  src="https://cdn.cai.tools.sap/webchat/webchat.js"
+  channelId="undefined"
+  token="undefined"
+  id="cai-webchat">
+  </script>
+
+
+  // Put the meta tag below for mobile responsive
+  <meta name="viewport" content="width=device-width">
+  </html>
+  
